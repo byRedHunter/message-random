@@ -1,20 +1,28 @@
 {
-	"name": "message-generator",
-	"version": "1.0.0",
-	"description": "It goes through difficult times and you do not know how to face them, here is a packet with the best phrases that will help you overcome these moments to move on and never give up or stop learning.",
-	"main": "src/index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"keywords": [
-		"javascript",
-		"node",
-		"npm"
-	],
-	"author": "JCode <jhonny.quispejl@gmail.com>",
-	"license": "MIT",
-	"bin": {
-		"message-random": "./bin/global.js"
-	},
-	"preferGlobal": true
+  "name": "message-generator",
+  "version": "1.0.0",
+  "description": "It goes through difficult times and you do not know how to face them, here is a packet with the best phrases that will help you overcome these moments to move on and never give up or stop learning.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "JCode <jhonny.quispejl@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "message-random": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/byRedHunter/message-random.git"
+  },
+  "bugs": {
+    "url": "https://github.com/byRedHunter/message-random/issues"
+  },
+  "homepage": "https://github.com/byRedHunter/message-random#readme"
 }
