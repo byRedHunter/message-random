@@ -1,7 +1,7 @@
 {
 	"name": "message-generator",
 	"version": "1.0.0",
-	"description": "Random de mensajes",
+	"description": "It goes through difficult times and you do not know how to face them, here is a packet with the best phrases that will help you overcome these moments to move on and never give up or stop learning.",
 	"main": "src/index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
